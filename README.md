@@ -40,7 +40,7 @@ cd nome-do-repositorio
 # Compile e execute
 ./mvnw spring-boot:run
 
-👤 Usuários para Testes
+# Usuários para Testes
 
 Administrador
 username: admin  
