@@ -32,6 +32,7 @@ Esta API realiza autenticação e autorização com **JWT (JSON Web Tokens)**, g
 
 ## ⚙️ Executando o Projeto
 
+```bash
 # Clone o projeto
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
@@ -39,14 +40,7 @@ cd nome-do-repositorio
 # Compile e execute
 ./mvnw spring-boot:run
 
-Acesse em:
-''Swagger UI: http://localhost:8080/swagger-ui.html
-''H2 Console: http://localhost:8080/h2-console
-''JDBC URL: jdbc:h2:mem:testdb
-Usuário: sa
-Senha: (em branco)
-
-# 👤 Usuários para Testes
+👤 Usuários para Testes
 
 Administrador
 username: admin  
